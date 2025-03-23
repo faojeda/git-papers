@@ -13,6 +13,10 @@ Really, really cool results.
 
 So beautiful, really. Just the best.
 
+## Conclusion
+
+I have concluded something important. 
+
 ## References 
 
 Smith, J (2020).
