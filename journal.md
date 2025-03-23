@@ -1,10 +1,10 @@
 
-#This is my super cool paper
+## This is my super cool paper
 
 Written by: ME ! and all of my friends, who are great.
 
 
-##Introduction
+## Introduction
 
 This is a very important problem that I have been working on.
 
