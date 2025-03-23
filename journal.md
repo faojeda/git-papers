@@ -1,7 +1,7 @@
+
 #This is my super cool paper
-Written by: ME !
-My affiliation: McGill University
-And all of my friends, who are great.
+
+Written by: ME ! and all of my friends, who are great.
 
 
 ##Introduction
@@ -12,7 +12,7 @@ This is a very important problem that I have been working on.
 
 Really, really cool results.
 
-### Figures
+## Figures
 
 So beautiful, really. Just the best.
 
