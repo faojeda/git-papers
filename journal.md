@@ -1,6 +1,8 @@
 #This is my super cool paper
 Written by: ME !
-And all of my friends who are great.
+
+And all of my friends, who are great.
+My affiliation: McGuill University
 
 ##Introduction
 
