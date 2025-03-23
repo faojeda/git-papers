@@ -1,9 +1,13 @@
 #This is my super cool paper
 Written by: ME !
 
-##introduction
+##Introduction
 
 This is a very important problem that I have been working on.
+
+## Results
+
+Really, really cool results.
 
 ## References 
 
